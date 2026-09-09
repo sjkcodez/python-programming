@@ -39,9 +39,9 @@ Python is a high-level, general-purpose programming language known for being ext
 
 
 # History of Python
-Created by: A programmer named Guido van Rossum, from the Netherlands.
-When: He started working on it in December 1989, and officially released it in 1991.
-Why he made it: Guido was working over the Christmas holidays and wanted a side project. 
+Created by:   A programmer named Guido van Rossum, from the Netherlands.
+When:   He started working on it in December 1989, and officially released it in 1991.
+Why he made it:   Guido was working over the Christmas holidays and wanted a side project. 
 He wanted to create a language that was powerful but also fun and easy to read .
 
 Guido van Rossum had the final say on how the language evolved, because he cared so much about keeping it simple and clean. 
@@ -73,21 +73,21 @@ print("Hello World")
 
 # Python Real-life Application 
 
-1. Artificial Intelligence (AI) and Data Science: 
+1. Artificial Intelligence (AI) and Data Science:   
 Python is the undisputed king of AI. 
 Real-Life Example: ChatGPT and TikTok   Python code runs the AI models that generate ChatGPT's answers and determines exactly which video shows up next on a student's TikTok feed  
 
-  2. Web Development (Building Websites): 
+  2. Web Development (Building Websites):   
 Python is used behind the scenes (the backend) to handle the complex brains of major websites, like managing user accounts, security, and databases.
 
 Real-Life Example: Instagram and Netflix. Instagram's entire backend system is powered by Python. Netflix uses Python to analyze what users watch and recommend their next favorite show.
 
-  3. Automation (Making Computers Do Your Chores): 
+  3. Automation (Making Computers Do Your Chores):   
 Python allows users to write simple scripts to automate boring, repetitive tasks. It can rename 1,000 files in a second, automatically download pictures from the web, or send hundreds of customized emails.
 
 Real-Life Example: Office Work. Scientists, accountants, and office workers use Python to automatically sort through giant Excel spreadsheets and generate daily reports in seconds without doing it manually.
 
-  4. Cybersecurity and Hacking: 
+  4. Cybersecurity and Hacking:   
 Ethical hackers (the good guys who protect banks and companies) use Python to write tools that test system security and scan networks for weaknesses before cybercriminals can find them.
 
 Real-Life Example: Digital Banking. Cybersecurity experts in financial institutions use Python scripts to detect fraudulent transactions and block hackers in real-time.
@@ -98,19 +98,19 @@ Real-Life Example: Digital Banking. Cybersecurity experts in financial instituti
 
 ### Skills
 
-1. Problem Solving: 
+1. Problem Solving:   
 Break a big problem into small steps.
 
-2. Logical Thinking: 
+2. Logical Thinking:   
 Make decisions using if/else.
 
-3. Creativity: 
+3. Creativity:   
 Create games and apps.
 
-4. Patience: 
+4. Patience:   
 Fix mistakes until the program works.
 
-5. Critical Thinking: 
+5. Critical Thinking:   
 Find better ways to solve problems.
 
 
