@@ -1,4 +1,4 @@
-### INTRODUCTION TO PYTHON.
+# INTRODUCTION TO PYTHON.
 
 A computer is an electronic device designed to accept raw data as input, process that data using specific instructions, and generate an output.
 
@@ -10,14 +10,14 @@ A program is a structured collection of written instructions that directs a comp
 Programming language is the language we use to communicate with computers.(like Python, Java, or C++)
 
 
-### Difference between Programming and Coding
+# Difference between Programming and Coding
 Coding is the  writing of lines of code in a programming language (the "typing" part).
       writing the actual text (the code).
 
 Programming = the entire process of solving a problem using a computer.
 
 
-### The Two Categories of Programming Languages
+# The Two Categories of Programming Languages
 
 1. Low-Level Languages (Close to the hardware; fast but hard for humans to read)
 This is a language that is written very close to the computer's raw hardware layout (binary code like 010101 or Assembly code). It is incredibly fast for computers to run, but it is extremely difficult for humans to read, write, or memorize
@@ -35,7 +35,7 @@ Examples: Python, JavaScript, C++, and Java.
 Python is a high-level, general-purpose programming language known for being extremely easy to read and write.Created by a Dutch programmer  Guido van Rossum from the Netherlands and released in 1991.
 
 
-### History of Python
+# History of Python
 Created by: A programmer named Guido van Rossum, from the Netherlands.
 When: He started working on it in December 1989, and officially released it in 1991.
 Why he made it: Guido was working over the Christmas holidays and wanted a side project. 
@@ -45,7 +45,7 @@ Guido van Rossum had the final say on how the language evolved, because he cared
 He stepped back from that role in 2018, but his original vision — "code should be easy to read and understand" — is still the heart of Python today.
 
 
-#An Easy Comparison: Python vs. Other Languages:
+### An Easy Comparison: Python vs. Other Languages:
 
 In C++:
 
@@ -66,7 +66,7 @@ In Python:
 print("Hello World")
 ``` 
 
-### Python Real-life Application 
+# Python Real-life Application 
 
 1. Artificial Intelligence (AI) and Data Science
 Python is the undisputed king of AI. 
@@ -88,9 +88,9 @@ Ethical hackers (the good guys who protect banks and companies) use Python to wr
 Real-Life Example: Digital Banking. Cybersecurity experts in financial institutions use Python scripts to detect fraudulent transactions and block hackers in real-time.
 
 
-### Advantage of learning Programming
+# Advantage of learning Programming
 
-# Skills
+### Skills
 
 1. Problem Solving
 Break a big problem into small steps.
